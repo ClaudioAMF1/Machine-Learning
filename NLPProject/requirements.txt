@@ -1,0 +1,10 @@
+flask
+transformers
+torch
+nltk
+scikit-learn
+pandas
+numpy
+joblib
+urllib3<2.0
+certifi>=2023.7.22
